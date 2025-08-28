@@ -815,6 +815,8 @@ sybhmy.com
 whrrf.com
 tp2895.com
 # Microsoft Store
+apps.microsoft.com
+get.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 pti.store.microsoft.com
 *.md.mp.microsoft.com
@@ -823,5 +825,4 @@ store-images.microsoft.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 storecatalogrevocation.storequality.microsoft.com
 storesdk.dsx.mp.microsoft.com
-get.microsoft.com
 #Microsoft Store
