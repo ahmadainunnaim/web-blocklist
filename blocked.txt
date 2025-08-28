@@ -826,3 +826,14 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 storecatalogrevocation.storequality.microsoft.com
 storesdk.dsx.mp.microsoft.com
 #Microsoft Store
+gzsmartway.com
+home.richnfresh.com
+jp0012b14e-xsw11009879.s3.us-east-1.amazonaws.com
+kyvians.de
+meusitehostgator.com.br
+ncyifa.com
+sndoctor.com
+taiyanggy.com
+ustamm.ch
+yesmuch.com
+yuzhoujcgs.com
